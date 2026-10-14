@@ -1,0 +1,17 @@
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\bin\Debug\net10.0-windows\Delivery Order Dashboard.exe
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\bin\Debug\net10.0-windows\Delivery Order Dashboard.deps.json
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\bin\Debug\net10.0-windows\Delivery Order Dashboard.runtimeconfig.json
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\bin\Debug\net10.0-windows\Delivery Order Dashboard.dll
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\bin\Debug\net10.0-windows\Delivery Order Dashboard.pdb
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery_Order_Dashboard.Form1.resources
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.csproj.GenerateResource.cache
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.AssemblyInfoInputs.cache
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.AssemblyInfo.cs
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.csproj.CoreCompileInputs.cache
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.sourcelink.json
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.dll
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\refint\Delivery Order Dashboard.dll
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.pdb
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\Delivery Order Dashboard.genruntimeconfig.cache
+D:\Ontapnet\BT5\Delivery Order Dashboard\Delivery Order Dashboard\obj\Debug\net10.0-windows\ref\Delivery Order Dashboard.dll

@@ -1,0 +1,17 @@
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\bin\Debug\net10.0-windows\Interactive Slot Booking.exe
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\bin\Debug\net10.0-windows\Interactive Slot Booking.deps.json
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\bin\Debug\net10.0-windows\Interactive Slot Booking.runtimeconfig.json
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\bin\Debug\net10.0-windows\Interactive Slot Booking.dll
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\bin\Debug\net10.0-windows\Interactive Slot Booking.pdb
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive_Slot_Booking.Form1.resources
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.csproj.GenerateResource.cache
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.AssemblyInfoInputs.cache
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.AssemblyInfo.cs
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.csproj.CoreCompileInputs.cache
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.sourcelink.json
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.dll
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\refint\Interactive Slot Booking.dll
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.pdb
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\Interactive Slot Booking.genruntimeconfig.cache
+D:\Ontapnet\BT4\Interactive Slot Booking\Interactive Slot Booking\obj\Debug\net10.0-windows\ref\Interactive Slot Booking.dll
